@@ -5,6 +5,9 @@
 [Cipher Inspector](https://app.cipherinspector.com) is a premium tool for cryptanalysis. Compare and analyze ciphers using a wide variety of established
 cryptanalysis techniques, all in a single dashboard. You can even share your analysis with others!
 
+> [!TIP]
+> Found an issue? Want to see something added? [Create an issue](https://github.com/Cipher-Inspector/.github/issues/new).
+
 ## Features
 
 ### Dashboards
@@ -104,7 +107,8 @@ There are many features that will make life easier for cryptanalysts which compl
 
 ## Reporting bugs or feature requests
 
-Found an issue? Want to see something added? [Create an issue here](https://github.com/Cipher-Inspector/.github/issues).
+> [!TIP]
+> Found an issue? Want to see something added? [Create an issue](https://github.com/Cipher-Inspector/.github/issues/new).
 
 ## Developer notes
 
