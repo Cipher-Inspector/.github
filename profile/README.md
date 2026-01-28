@@ -8,7 +8,7 @@ cryptanalysis techniques, all in a single dashboard. You can even share your ana
 > [!TIP]
 > Found an issue? Want to see something added? [Create an issue](https://github.com/Cipher-Inspector/.github/issues/new).
 
-## Features
+## Basic Features
 
 ### Dashboards
 
