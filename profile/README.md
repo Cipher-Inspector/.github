@@ -1,4 +1,4 @@
-<img width="3231" height="2126" alt="CC85C839-7EAB-443F-852D-C190C50E5801" src="https://github.com/user-attachments/assets/5eb3d2a0-a533-4c68-b523-35e90fbf9b1b" />
+<img width="2759" height="470" alt="CipherInspectorNavLogo (1)" src="https://github.com/user-attachments/assets/83c8176a-732e-44c8-8009-c0e3e7217244" />
 
 # Welcome to Cipher Inspector!
 
