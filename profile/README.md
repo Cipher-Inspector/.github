@@ -15,7 +15,7 @@ cryptanalysis techniques, all in a single dashboard. You can even share your ana
 <img width="1681" height="768" alt="image" src="https://github.com/user-attachments/assets/326a3edc-4043-445e-a6fd-7647b73200c1" />
 
 
-CipherInspector allows you to create insightful dashboards that visualize information about ciphers.
+CipherInspector Enigma allows you to create insightful dashboards that visualize information about ciphers.
 
 #### Create and save dashboards
 
@@ -28,6 +28,10 @@ Create dashboards that only you can view, no one else. Have some top secret work
 #### Public dashboards
 
 If you want to share your dashboard with the world, you can make it public! Anyone with the link will be able to view your dashbard. Public dashboards are read-only and can be made private again.
+
+#### Bookmark Ciphertexts
+
+You can bookmark your favorite ciphertexts and access them from any of the dashboards saved to your account.
 
 ### Ciphertexts
 
@@ -55,8 +59,10 @@ You can find a list of all the widgets and how they work [here](https://docs.cip
 - Resize
 - Go into full-screen mode
 - Be configured with settings for each widget type
-- have the same widget added multiple times with different configurations
+- Have the same widget added multiple times with different configurations
 - Be configured to only analyze specific ciphertexts
+
+Below are a few examples.
 
 #### Frequency Analysis
 
@@ -88,8 +94,6 @@ Ever wonder how any of these widgets work? Our [docs](docs.cipherinspector.com) 
 ### Quality of life
 
 There are many features that will make life easier for cryptanalysts which compliment the core dashboard experience.
-- Dashboards hub: search, sort, and filter your dashboards for easier access
-- Dashboard customization: Dashboard name, description, and public/private status can be modified at any time
 - Full Screen mode: In the dashboard, you can hide the sidebar to view a wider dashboard experience.
 - Dashboard information: view when a dashboard was created, who created it, and when it was last updated.
 - Ciphertext filtering: Widgets can display a subset of ciphers in the dashboard for precise comparisons.
@@ -105,6 +109,15 @@ There are many features that will make life easier for cryptanalysts which compl
 - Bitstream-based ciphertexts: Cipher inspector asks you to provide the character encoding for the ciphertext and stores the cipher as raw bytes for enhanced analysis techniques.
 - Nicknames: Leveraging ciphertext nicknames makes it a lot easier to identify which cipher you are looking at in a widget.
 
+### Enigma Features
+
+Additional convenience features available for a low price:
+- Dashboards hub: search, sort, and filter your dashboards for easier access.
+- Dashboard customization: Dashboard name, description, and public/private status can be modified at any time.
+- Copy dashboards from the playground or public dashboards to your profile for customization.
+- Create public or private dashboards and save them to your account.
+- Bookmark your ciphertexts for access from any dashboard.
+
 ## Reporting bugs or feature requests
 
 > [!TIP]
@@ -112,9 +125,9 @@ There are many features that will make life easier for cryptanalysts which compl
 
 ## Developer notes
 
-CipherInspector is a full application and costs money to run. Therefore, cipher inspector is offered in free and premium tiers. The free tier will be a limited experience with caps on certain operations.
-Premium tier is focused on covering the cost of operational expenses. A lot of work goes into making this service as useful as possible, so any support you can provide is greatly appreciated!
+CipherInspector is a full application and costs money to run. Therefore, cipher inspector is offered in Basic (free) and Enigma tiers. The free tier will be a limited experience that will not include the "Enigma" tier functionality.
+Enigma tier is focused on covering the cost of operational expenses. A lot of work goes into making this service as useful as possible, so any support you can provide is greatly appreciated!
 
 #### Data retention
 
-If you would like your data deleted, please [send an email](mailto:rebased.again@gmail.com?subject=CipherInspector%20Data%20Deletion%20Request") from the email you signed up with.
+While your account is still active, all data is retained. Upon deleting your profile, all of your data will be deleted with it. CipherInspector does not sell your data to third parties. Google and Discord integration are for OAuth only.
