@@ -14,6 +14,11 @@ cryptanalysis techniques, all in a single dashboard. You can even share your ana
 
 <img width="1681" height="768" alt="image" src="https://github.com/user-attachments/assets/326a3edc-4043-445e-a6fd-7647b73200c1" />
 
+#### Playground
+
+The CipherInspector Playground allows you to create a free dashboard with all available CipherInspector tools. It is not saved and cannot be shared, but if you upgrade to CipherInspector Enigma from your playground, it will be automatically copied to your account.
+
+#### Enigma
 
 CipherInspector Enigma allows you to create insightful dashboards that visualize information about ciphers.
 
